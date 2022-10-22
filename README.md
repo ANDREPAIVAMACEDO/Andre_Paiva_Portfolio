@@ -20,4 +20,3 @@
 - Visualização dos dados
 - Criação do Modelo de Machine Learning (Regressão LInear, Regressão Lasso, Regressão Ridge, Random Forest, Avaliação de Métricas)
 - Colocando em Produção (Flask)
-
