@@ -11,7 +11,6 @@
 - Scikit-Learning
 - Matplotlib
 - Seaborn
-- Flask
 
 **Fases**:
 
@@ -19,4 +18,4 @@
 - Preparação dos Dados (Tratamento de missing values, tratamento de outlierss, seleção de features, categorização)
 - Visualização dos dados
 - Criação do Modelo de Machine Learning (Regressão LInear, Regressão Lasso, Regressão Ridge, Random Forest, Avaliação de Métricas)
-- Colocando em Produção (Flask)
+- Deployment
