@@ -1,22 +1,10 @@
-# Projeto: Previsão de custo de plano de saúde
+# Portfólio Ciência de Dados - André Paiva Macedo
 
-**Objetivo**: Criação de um modelo de Machine Learning para ser usado por operadoras de plano de saúde para previsão do valor para cobrança de acordo com informaçõees históricas de outros clientes
+<div align="justify"> Tenho o objetivo de gerar valor para as pessoas e empresas através do estudo contínuo sobre novas ferramentas e tecnologias que nos permitem transformar dados em informação útil para a tomada de decisão e esse portfólio foi criado como forma de auxiliar no auto aprendizado e centralizar projetos já realizados.<p>
+  
+# Projetos
+Os projetos são apresentados em iPython Notebooks (publicados no Github)
 
-**Linguagem**: Python
 
-**Bibliotecas/Frameworks**: 
-
-- Pandas
-- Numpy
-- Scikit-Learning
-- Matplotlib
-- Seaborn
-- Flask
-
-**Fases**:
-
-- Definição do Problema de Negócio
-- Preparação dos Dados (Tratamento de missing values, tratamento de outlierss, seleção de features, categorização)
-- Visualização dos dados
-- Criação do Modelo de Machine Learning (Regressão LInear, Regressão Lasso, Regressão Ridge, Random Forest, Avaliação de Métricas)
-- Colocando em Produção (Flask)
+- [Previsão de custo de plano de saúde com Python](https://github.com/ANDREPAIVAMACEDO/Andre_Paiva_Portfolio/blob/main/Previs%C3%A3o%20de%20Plano%20de%20Sa%C3%BAde/Previs%C3%A3o_de_custo_de_Plano_de_Sa%C3%BAde.ipynb)
+- Segmentação de cliente de cartão de crédito para definição de estratégia de marketing com Python
