@@ -1,4 +1,4 @@
-# Projeto: Previsão de turnover de funcionários
+# Projeto: Previsão de Turnover de Funcionários
 
 **Objetivo**: Criação de um modelo de Machine Learning para ser usado por departamentos de Recursos Humanos para evitar o turnover de funcionários
 
