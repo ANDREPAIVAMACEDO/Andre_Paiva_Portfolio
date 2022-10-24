@@ -6,5 +6,5 @@
 Os projetos são apresentados em iPython Notebooks (publicados no Github)
 
 
-- [Previsão de custo de plano de saúde com Python]()
-- [Segmentação de cliente de cartão de crédito para definição de estratégia de marketing com Python]
+- [Previsão de custo de plano de saúde com Python](https://github.com/ANDREPAIVAMACEDO/Andre_Paiva_Portfolio/blob/main/Previs%C3%A3o%20de%20Plano%20de%20Sa%C3%BAde/Previs%C3%A3o_de_custo_de_Plano_de_Sa%C3%BAde.ipynb)
+- [Segmentação de cliente de cartão de crédito para definição de estratégia de marketing com Python](https://github.com/ANDREPAIVAMACEDO/Andre_Paiva_Portfolio/blob/main/Clusteriza%C3%A7%C3%A3o%20de%20cliente%20de%20cart%C3%A3o%20de%20cr%C3%A9dito/Segmenta%C3%A7%C3%A3o_de_clientes_cart%C3%A3o_de_cr%C3%A9dito.ipynb)
