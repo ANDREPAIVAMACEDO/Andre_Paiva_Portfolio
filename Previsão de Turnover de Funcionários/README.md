@@ -1,6 +1,6 @@
 # Projeto: Previsão de Turnover de Funcionários
 
-**Objetivo**: Criação de um modelo de Machine Learning para ser usado por departamentos de Recursos Humanos para evitar o turnover de funcionários
+**Objetivo**: Desenvolvimento de um modelo de IA para reduzir os custos de contratação e treinamento de funcionários, prevendo quais funcionários podem deixar a empresa
 
 **Linguagem**: Python
 
