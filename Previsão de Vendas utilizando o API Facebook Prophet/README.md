@@ -1,4 +1,4 @@
-# Projeto: Previsão de Vendas baseado em séries temporais
+# Projeto: Previsão de vendas da rede de drogarias Rossmann
 
 **Objetivo**: Implementação de Séries Temporais para previsão de preços futuros de produtos
 
