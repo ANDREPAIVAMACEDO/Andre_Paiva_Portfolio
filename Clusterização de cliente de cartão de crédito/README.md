@@ -1,6 +1,6 @@
 # Projeto: Segmentação de clientes de cartão de crédito
 
-**Objetivo**: Criação de um modelo de Machine Learning para ser usado por departamnetos de marketing de empresas para segmentação de clientes de acordo com informaçõees históricas de outros clientes
+**Objetivo**: Criação de um modelo de Machine Learning para otimização da estratégia de marketing realizando a segmentação de clientes
 
 **Linguagem**: Python
 
