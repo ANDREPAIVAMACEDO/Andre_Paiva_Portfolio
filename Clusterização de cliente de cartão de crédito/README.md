@@ -5,7 +5,7 @@
 
 
 <p align="left">
-  <img src="cartão de crédito.jpg" >
+  <img src="cartão de crédito (2).jpg" >
 </p>
 
 **Linguagem**: Python
