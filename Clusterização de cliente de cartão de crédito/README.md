@@ -18,4 +18,4 @@
 - Preparação dos Dados (Tratamento de missing values, tratamento de outliers)
 - Visualização dos dados
 - Criação do Modelo de Machine Learning (algoritmo K-Means, utilizando o metodo Elbow para definição do número de clusters)
-- Deployment
+
