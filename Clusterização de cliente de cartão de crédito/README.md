@@ -3,9 +3,10 @@
 **Objetivo**: Criação de um modelo de Machine Learning para otimização da estratégia de marketing de uma empresa fictícia, realizando a segmentação de clientes de acordo com perfis de gastos e uso de cartão de crédito.
 
 
-<p align="center">
+<p align="left">
   <img src="cartão de crédito.jpg" >
 </p>
+
 **Linguagem**: Python
 
 **Bibliotecas/Frameworks**: 
