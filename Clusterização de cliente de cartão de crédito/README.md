@@ -1,6 +1,6 @@
 # Projeto: Segmentação de clientes de acordo com gastos com cartão de crédito
 
-**Objetivo**: Criação de um modelo de Machine Learning para otimização da estratégia de marketing de uma empresa fictícia, realizando a segmentação de clientes de acordo com perfis de gastos e uso de cartão de crédito.
+##**Objetivo**: Criação de um modelo de Machine Learning para otimização da estratégia de marketing de uma empresa fictícia, realizando a segmentação de clientes de acordo com perfis de gastos e uso de cartão de crédito.
 
 
 <p align="left">
