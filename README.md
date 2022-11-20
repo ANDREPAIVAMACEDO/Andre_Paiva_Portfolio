@@ -11,7 +11,7 @@ Os projetos são apresentados em iPython Notebooks (publicados no Github)
 
 
 - [Previsão de custo de plano de saúde com Python](https://github.com/ANDREPAIVAMACEDO/Andre_Paiva_Portfolio/blob/main/Previs%C3%A3o%20de%20Plano%20de%20Sa%C3%BAde/Previs%C3%A3o_de_custo_de_Plano_de_Sa%C3%BAde.ipynb)
-- [Segmentação de cliente de cartão de crédito para definição de estratégia de marketing com Python](https://github.com/ANDREPAIVAMACEDO/Andre_Paiva_Portfolio/blob/main/Clusteriza%C3%A7%C3%A3o%20de%20cliente%20de%20cart%C3%A3o%20de%20cr%C3%A9dito/Segmenta%C3%A7%C3%A3o_de_clientes_cart%C3%A3o_de_cr%C3%A9dito.ipynb)
+- [Segmentação de cliente de cartão de crédito para definição de estratégia de marketing com Python](https://github.com/ANDREPAIVAMACEDO/Andre_Paiva_Portfolio/blob/main/Clusterização%20de%20cliente%20de%20cartão%20de%20crédito/Segmentação_de_clientes_de_cartão_de_crédito.ipynb)
 - [Previsão de Turnover de funcionários](https://github.com/ANDREPAIVAMACEDO/Andre_Paiva_Portfolio/blob/main/Previs%C3%A3o%20de%20Turnover%20de%20Funcion%C3%A1rios/Previs%C3%A3o_de_Turnover_de_Funcion%C3%A1rios.ipynb)
 - [Previsão de Vendas de uma rede de Drogarias usando API Facebook Prophet para Séries Temporais](https://github.com/ANDREPAIVAMACEDO/Andre_Paiva_Portfolio/blob/main/Previs%C3%A3o%20de%20Vendas%20utilizando%20o%20API%20Facebook%20Prophet/Previs%C3%A3o_de_Vendas_utilizando_o_API_Facebook_Prophet.ipynb)
 - [Competição Kaggle Spaceship Titanic](https://github.com/ANDREPAIVAMACEDO/Andre_Paiva_Portfolio/blob/main/Spaceship%20Titanic/Spaceship_Titanic.ipynb)
